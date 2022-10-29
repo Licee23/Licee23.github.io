@@ -38,6 +38,14 @@ header img {
 
 h1 {
     color: greenyellow;
+    text-align: center;
+    line-height: 100px;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    line-height: 100px;
 }
 
 
